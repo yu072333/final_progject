@@ -78,8 +78,7 @@
   - Frontend：https://github.com/yu072333/smart-fridge-frontend 
   - Backend：https://github.com/yu072333/smart-fridge-backend
 
-- 🎥 Demo 影片（YouTube）：  
-  （期末展前補上）
+- 🎥 Demo 影片（YouTube）：  https://studio.youtube.com/video/9unYtQrG1XE/edit
 
 
 # 未來展望
